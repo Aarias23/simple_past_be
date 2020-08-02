@@ -102,12 +102,12 @@ hr {
 
     .carousel-control-next-icon {
         background-image: url(../img/right-arrow.svg);
-        margin-left: 20px;
+        margin-left: 5px;
     }
 
     .carousel-control-prev-icon {
         background-image: url(../img/left-arrow.svg);
-        margin-right: 20px;
+        margin-right: 5px;
     }
 }
 
@@ -117,7 +117,7 @@ hr {
     }
 
     .d-block {
-        height: 50vh;
+        height: 75vh;
     }
 
     .text-muted {
@@ -126,5 +126,9 @@ hr {
 
     .header_text {
         font-size: 14px;
+    }
+
+    .container {
+        width: 110%;
     }
 }
