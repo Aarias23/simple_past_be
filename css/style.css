@@ -129,6 +129,6 @@ hr {
     }
 
     .container {
-        width: 100vh;
+        margin-left: 10px;
     }
 }
