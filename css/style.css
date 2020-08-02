@@ -117,7 +117,7 @@ hr {
     }
 
     .d-block {
-        height: 75vh;
+        height: 50vh;
     }
 
     .text-muted {
@@ -129,6 +129,6 @@ hr {
     }
 
     .container {
-        width: 110%;
+        width: 100vh;
     }
 }
